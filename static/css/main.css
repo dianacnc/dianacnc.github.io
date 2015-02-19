@@ -1,0 +1,58 @@
+body {background-image: url(/static/img/cnc-top-1600.jpg); font-family: Open Sans,open-sans,sans-serif; background-size: contain; color: grey;}
+
+a.logo {padding: 5px 15px;}
+a.logo img {max-height: 100%;}
+
+.navbar-default {background: none; margin-bottom:0px; padding: 5px 0px; border: none;}
+.navbar-default .navbar-nav .active a, .navbar-default .navbar-nav .active a:hover {border-bottom: 5px solid #e95000; background: none; color: white;}
+.navbar-default .navbar-nav li a {color: white;}
+.navbar-default .navbar-nav li a:hover, .navbar-default .navbar-nav li.active a:hover {color: #e95000;}
+
+.jumbotron {background: none; padding: 7% 0px; margin-bottom: 0px; color: white;}
+.jumbotron .container {border-radius: 20px; padding: 3% 15px;}
+
+.separator {height: 30px;}
+.separator a {color: grey;}
+.content h2 {font-size: 36px; font-weight: 600; text-align: center; margin: 25px 0px;}
+.content {background-color: #77A0D6;}
+
+.service-1 .cont-img img {padding:50px 0px; width: 100%;}
+
+.service-2 img, .service-4  img {width: 20%;}
+.cont-text {padding: 75px 0px;}
+
+.service-2 .col-lg-4, .service-2 .col-lg-8, .service-4 .col-lg-4, .service-4 .col-lg-8 {
+  float:none;
+  display:inline-block;
+  vertical-align:middle;
+}
+
+div.service-1 div.row, div.service-2 div.row, div.service-3 div.row, div.service-4 div.row, div.experience div.row {margin: 0;}
+
+.service-1 {background: whitesmoke;}
+.service-2, .service-4, .experience, .feature, .part-name {background: white;}
+
+.feature {padding: 75px 0px;}
+.feature h2, .part-name h2, .experience h2 {margin: 0px; padding: 25px 0px; font-size: 48px; color: black;}
+.feature .thumbnail, .experience .thumbnail  {border: none;}
+.feature div, .experience {color:  black;}
+.service-1 {background-color: whitesmoke;}
+.service-1 .cont-text h2 {text-align: left; font-weight: 400;}
+.service-2 .cont-body {background-color: whitesmoke; border-radius: 110px 0px 0px 70px;}
+.service-3 .cont-body {background-color: whitesmoke; padding-left: 0px; color: black;}
+.service-3 .cont-base {background-color: white; border-radius: 0px 80px 60px 0px;}
+.service-1 h4, .service-2 h4, .service-3 h4, .service-4 h4 {font-weight: 400; line-height: 1.5;}
+.service-3 .glyphicon {color: #e95000; padding-right: 10px;}
+.service-4 .cont-body {background-color: whitesmoke; border-radius: 70px 0px 0px 150px;}
+.experience {padding: 75px 0px;}
+.experience h3 {border-bottom: 2px solid #e95000; padding-bottom: 5px;}
+
+.panel-primary {border-color: #77A0D6;}
+.panel-primary .panel-heading {background-color: #77A0D6; border-color: #77A0D6;}
+
+.footer {background-color: black; color: white; padding-top: 50px;}
+.footer div {text-align: center;}
+.footer img {padding-right: 10px;}
+.footer .center-block div {display: inline-block;}
+.footer .center-block div img {margin-top: -20px;}
+.year {text-align: center; padding: 30px 0px;}
