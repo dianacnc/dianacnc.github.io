@@ -1,3 +1,6 @@
+---
+---
+
 $diana-primary-font: Open Sans,open-sans,sans-serif;
 $diana-primary-color: #e95000;
 $diana-primary-color-border: #cf4900;
@@ -283,15 +286,16 @@ div.service-1, div.service-2, div.service-3, div.service-4, div.experience {
       font-size: 14px;
     }
   }
-  .experience, .part-name {
+  .experience, .feature, .experience {
     h2 {
       font-size: 36px;
       font-weight: 600;
     }
   }
-  .feature p {
-    @extend .experience;
-    font-size: 12px;
+  .feature {
+    p {
+      font-size: 12px;
+    }
   }
 }
 
