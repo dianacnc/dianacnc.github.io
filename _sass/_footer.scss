@@ -1,0 +1,20 @@
+.footer {
+  background-color: #000000;
+  color: #ffffff;
+  padding-top: 50px;
+  div {
+    text-align: center;
+  }
+  img {
+    padding-right: 10px;
+  }
+  .center-block div {
+    display: inline-block;
+  }
+  .center-block div img {
+    margin-top: -20px;
+  }
+}
+.year {
+  padding: 30px 0px;
+}

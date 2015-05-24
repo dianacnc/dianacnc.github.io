@@ -1,0 +1,39 @@
+---
+---
+@import 'define';
+$diana-link-color: #000000;
+@import 'header';
+@import 'footer';
+
+div.content {
+  padding-bottom: 30px;
+}
+
+p {
+  font-size: 1.5em;
+}
+
+h1 {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+div.work-img {
+  padding: 20px 0px;
+  text-align: center;
+  img {
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+  p {
+    font-size: 1.1em;
+  }
+}
+
+@media (max-width: 767px) {
+  p {
+    font-size: 1.1em;
+  }
+}

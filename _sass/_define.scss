@@ -1,0 +1,20 @@
+$diana-primary-font: Open Sans,open-sans,sans-serif;
+$diana-primary-color: #e95000;
+$diana-link-color: #ffffff;
+$diana-primary-color-hover: #a13800;
+
+body {
+  font-family: $diana-primary-font;
+}
+
+a.btn-diana {
+  background-color: $diana-primary-color;
+  border: none;
+  color: #ffffff;
+}
+
+a.btn-diana:hover, a.btn-diana:focus  {
+  background-color: $diana-primary-color-hover;
+  border: none;
+  color: #ffffff;
+}

@@ -1,2 +1,8 @@
 sass:
     style: :compressed
+    sass_dir: _sass
+
+paginate: 10
+paginate_path: "/works/page/:num/"
+
+excerpt_separator: <!--content-->

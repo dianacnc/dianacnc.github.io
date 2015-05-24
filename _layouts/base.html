@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="
+  {% if page.description %}
+  {{ page.description }}
+  {% else %}
+  Модернизация, ремонт и производство станков на базе
+  современной российской системы ЧПУ DIANA-CNC.
+  {% endif %}"/>
+  <title>
+  {% if page.title  %}
+  {{ page.title }}
+  {% else %}
+  DIANA-CNC - Система ЧПУ
+  {% endif %}
+  </title>
+  <link rel="shortcut icon" href="/static/ico/favicon.png">
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,900,300italic,400italic" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/static/css/{{ page.cssname }}.css">
+</head>
+<body>
+  <!-- Block nav -->
+  <nav class="navbar navbar-default">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand logo" href="http://www.dianacnc.com">
+          <img alt="Brand" src="/static/img/{{ page.logo }}">
+        </a>
+      </div>
+      <div class="collapse navbar-collapse navbar-right" id="navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class="{{ page.activemain }}"><a href="/">Главная<span class="sr-only">(current)</span></a></li>
+          <li class="{{ page.activeworks }}"><a href="/works/">Работы</a></li>
+          <li><a href="#contacts">Контакты</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- End block nav-->
+  {{ content }}
+  <!-- Block footer -->
+  <div class="footer" id="contacts">
+    <div class="container">
+      <div class="col-lg-4 col-md-4 col-sm-4">
+        <div>
+          <h4><img alt="address:" src="/static/img/loc.png" />г.Пенза, ул. Мира, 60</h4>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-4">
+        <div>
+          <h4>
+              <div class="center-block">
+                <div><img alt="telephone:" src="/static/img/tele.png" /></div>
+                <div>+7(8412)70-91-48</br>+7(8412)21-90-47</div>
+              </div>
+          </h4>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-4">
+        <div>
+          <h4><img alt="e-mail:" src="/static/img/mail.png" />info@dianacnc.com</h4>
+        </div>
+      </div>
+    </div>
+    <div class="year">
+      <p>2015, DIANACNC</p>
+    </div>
+  </div>
+  <!-- End block footer-->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+</body>
+</html>
