@@ -10,7 +10,7 @@ div.content {
 }
 
 p {
-  font-size: 1.5em;
+  font-size: 1em;
 }
 
 h1 {
@@ -24,6 +24,10 @@ div.work-img {
   img {
     max-width: 100%;
   }
+}
+
+.button-center {
+  text-align: center;
 }
 
 @media (min-width: 768px) and (max-width: 991px){
