@@ -311,5 +311,5 @@ tmb: article-3-2001.jpg
   <p style="padding-top: 10px;"><small>Рис. 17. Обрабатывающий центр МС-032 с системой ЧПУ «ДиаНа-CNC».</small></p>
 </div>
 <div class="button-center">
-  <a class="btn btn-diana btn-lg" href="/2005/02/01/article-upgrade-cnc-7-advice.html" role="button">Следующая статья</a>
+  <a href="/2005/02/01/article-upgrade-cnc-7-advice.html" role="button">Модернизация станков с ЧПУ: 7 практических советов</a>
 </div>
