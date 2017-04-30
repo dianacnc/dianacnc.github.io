@@ -11,4 +11,8 @@ services:
       - ./:/app/src
     ports:
       - "4000:4000"
-    
+
+networks:
+  default:
+    external:
+      name: docker-compose    
