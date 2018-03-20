@@ -34,18 +34,19 @@ description: "Описание современной системы ЧПУ Ди
   <div class="col-lg-8 col-md-8 col-sm-8">
     <h3><strong class="di-color">PS-3ADC-12IN-8OUT</strong></h3>
     <p>Питание: <strong>24В 150 мА</strong><br>
-    Число дискретных входов: <strong>16</strong><br>
-    Число дискретных входов: <strong>16</strong><br>
+    Число дискретных входов: <strong>12</strong><br>
     Число дискретных выходов: <strong>8</strong><br>
     Управление: <strong>RS-485</strong><br>
-    Число команд: <strong>8</strong><br>
+    Число команд: <strong>10</strong><br>
     Формфактор: <strong>A</strong><br>
     Назначение: <strong>связь с элементами электроавтоматики станков и систем промышленной автоматизации.</strong><br>
     <strong>Особенности:</strong><br>
-    <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> дискретные входы разделены на 2 гальванически-развязанных сегмента;<br> 
-    <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> дискретные выходы разделены на 2 гальванически-развязанных сегмента;<br>
-    <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> напряжение на дискретном выходе определяется пользователем из диапазона от -60 В до +60 В путём коммутации соответствующего напряжения на один из двух контактов (отдельно для каждого сегмента);<br>
-    <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> повышенная нагрузочная способность дискретных выходов (стандартно 1 А, по заказу до 2-х А), позволяющая без промежуточных реле управлять катушками магнитных пусктелей и исполнительных узлов пневматических и гидравлических систем.</p>
+    <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> дискретные выходы разделены на 2 гальванически-развязанных сегмента;<br> 
+    <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> напряжение на дискретном выходе определяется пользователем из диапазона от -60 В до +60 В путём коммутации
+соответствующего напряжения на один из двух контактов (отдельно для каждого сегмента);<br>
+    <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> повышенная нагрузочная способность дискретных выходов (стандартно 1 А, по заказу до 2-х А), позволяющая без 
+промежуточных реле управлять катушками магнитных пусктелей и исполнительных узлов пневматических и гидравли-
+ческих систем.</p>
   </div>
 </div>
 
