@@ -28,12 +28,13 @@ description: "Описание современной системы ЧПУ Ди
 <div class="row">
   <div class="col-lg-4 col-md-4 col-sm-4">
     <div class="work-img">
-      <img src="/static/img/works/cnc-08-2016/01.png">
+      <img src="/static/img/works/cnc-03-2018/PS-3ADC-12IN-8OUT.png">
     </div>
   </div>
   <div class="col-lg-8 col-md-8 col-sm-8">
-    <h3><strong class="di-color">PS-16IN-8OUT</strong></h3>
+    <h3><strong class="di-color">PS-3ADC-12IN-8OUT</strong></h3>
     <p>Питание: <strong>24В 150 мА</strong><br>
+    Число дискретных входов: <strong>16</strong><br>
     Число дискретных входов: <strong>16</strong><br>
     Число дискретных выходов: <strong>8</strong><br>
     Управление: <strong>RS-485</strong><br>
