@@ -30,18 +30,18 @@ description: "Описание современной системы ЧПУ Ди
   </div>
   <div class="col-lg-8 col-md-8 col-sm-8">
     <h3><strong class="di-color">PS-16IN-8OUT</strong></h3>
-    <p>Питание: <strong>24В 150 мА</strong><br>
-    Число дискретных входов: <strong>16</strong><br>
-    Число дискретных выходов: <strong>8</strong><br>
-    Управление: <strong>RS-485</strong><br>
-    Число команд: <strong>8</strong><br>
-    Формфактор: <strong>A</strong><br>
-    Назначение: <strong>связь с элементами электроавтоматики станков и систем промышленной автоматизации.</strong><br>
+    <p><strong>Питание: </strong>24В 150 мА<br>
+    <strong>Число дискретных входов: </strong>16<br>
+    <strong>Число дискретных выходов: </strong>8<br>
+    <strong>Управление: </strong>RS-485<br>
+    <strong>Число команд: </strong>8<br>
+    <strong>Формфактор: </strong>A<br>
+    <strong>Назначение: </strong>связь с элементами электроавтоматики станков и систем промышленной автоматизации.<br>
     <strong>Особенности:</strong><br>
     <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> дискретные входы разделены на 2 гальванически-развязанных сегмента;<br> 
     <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> дискретные выходы разделены на 2 гальванически-развязанных сегмента;<br>
     <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> напряжение на дискретном выходе определяется пользователем из диапазона от -60 В до +60 В путём коммутации соответствующего напряжения на один из двух контактов (отдельно для каждого сегмента);<br>
-    <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> повышенная нагрузочная способность дискретных выходов (стандартно 1 А, по заказу до 2-х А), позволяющая без промежуточных реле управлять катушками магнитных пусктелей и исполнительных узлов пневматических и гидравлических систем.</p>
+    <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> повышенная нагрузочная способность дискретных выходов (стандартно 1 А, по заказу до 2-х А), позволяющая без промежуточных реле управлять катушками магнитных пускателей и исполнительных узлов пневматических и гидравлических систем.</p>
   </div>
 </div>
 <div class="row">
@@ -52,20 +52,19 @@ description: "Описание современной системы ЧПУ Ди
   </div>
   <div class="col-lg-8 col-md-8 col-sm-8">
     <h3><strong class="di-color">PS-3ADC-12IN-8OUT</strong></h3>
-    <p>Питание: <strong>24В 150 мА</strong><br>
-    Число дискретных входов: <strong>12</strong><br>
-    Число дискретных выходов: <strong>8</strong><br>
-    Управление: <strong>RS-485</strong><br>
-    Число команд: <strong>10</strong><br>
-    Формфактор: <strong>A</strong><br>
-    Назначение: <strong>связь с элементами электроавтоматики станков и систем промышленной автоматизации.</strong><br>
+    <p><strong>Питание: </strong>24В 150 мА<br>
+    <strong>Число дискретных входов: </strong>12<br>
+    <strong>Число дискретных выходов: </strong>8<br>
+    <strong>Управление: </strong>RS-485<br>
+    <strong>Число команд: </strong>10<br>
+    <strong>Формфактор: </strong>A<br>
+    <strong>Назначение: </strong>связь с элементами электроавтоматики станков и систем промышленной автоматизации.<br>
     <strong>Особенности:</strong><br>
     <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> дискретные выходы разделены на 2 гальванически-развязанных сегмента;<br> 
     <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> напряжение на дискретном выходе определяется пользователем из диапазона от -60 В до +60 В путём коммутации
 соответствующего напряжения на один из двух контактов (отдельно для каждого сегмента);<br>
     <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> повышенная нагрузочная способность дискретных выходов (стандартно 1 А, по заказу до 2-х А), позволяющая без 
-промежуточных реле управлять катушками магнитных пусктелей и исполнительных узлов пневматических и гидравли-
-ческих систем.</p>
+промежуточных реле управлять катушками магнитных пускателей и исполнительных узлов пневматических и гидравлических систем.</p>
   </div>
 </div>
 <div class="row">
@@ -76,22 +75,21 @@ description: "Описание современной системы ЧПУ Ди
   </div>
   <div class="col-lg-8 col-md-8 col-sm-8">
     <h3><strong class="di-color">PS-3ADC-2QE-8OUT</strong></h3>
-    <p>Питание: <strong>24В 150 мА</strong><br>
-    Число входов АЦП: <strong>3</strong><br>
-    Число каналов квадратурных энкодеров: <strong>2</strong><br>
-    Число дискретных выходов: <strong>8</strong><br>
-    Управление: <strong>RS-485</strong><br>
-    Число команд: <strong>10</strong><br>
-    Формфактор: <strong>A</strong><br>
-    Назначение: <strong>связь с элементами пультов оператора станков и систем промышленной автоматизации.</strong><br>
+    <p><strong>Питание: </strong>24В 150 мА<br>
+    <strong>Число входов АЦП: </strong>3<br>
+    <strong>Число каналов квадратурных энкодеров: </strong>2<br>
+    <strong>Число дискретных выходов: </strong>8<br>
+    <strong>Управление: </strong>RS-485<br>
+    <strong>Число команд: </strong>10<br>
+    <strong>Формфактор: </strong>A<br>
+    <strong>Назначение: </strong>связь с элементами пультов оператора станков и систем промышленной автоматизации.<br>
     <strong>Особенности:</strong><br>
     <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> режимы работы квадратурных энкодеров x1 (A+B), x2 (A,B), x4 (A,~A,B,~B);<br> 
     <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> дискретные выходы разделены на 2 гальванически-развязанных сегмента;<br> 
     <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> напряжение на дискретном выходе определяется пользователем из диапазона от -60 В до +60 В путём коммутации
 соответствующего напряжения на один из двух контактов (отдельно для каждого сегмента);<br>
     <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> повышенная нагрузочная способность дискретных выходов (стандартно 1 А, по заказу до 2-х А), позволяющая без 
-промежуточных реле управлять катушками магнитных пусктелей и исполнительных узлов пневматических и гидравли-
-ческих систем.</p>
+промежуточных реле управлять катушками магнитных пускателей и исполнительных узлов пневматических и гидравлических систем.</p>
   </div>
 </div>
 <div class="row">
@@ -102,21 +100,20 @@ description: "Описание современной системы ЧПУ Ди
   </div>
   <div class="col-lg-8 col-md-8 col-sm-8">
     <h3><strong class="di-color">PS-3QE-8OUT</strong></h3>
-    <p>Питание: <strong>24В 150 мА</strong><br>
-    Число каналов квадратурных энкодеров: <strong>2</strong><br>
-    Число дискретных выходов: <strong>8</strong><br>
-    Управление: <strong>RS-485</strong><br>
-    Число команд: <strong>8</strong><br>
-    Формфактор: <strong>A</strong><br>
-    Назначение: <strong>связь с элементами пультов оператора станков и систем промышленной автоматизации.</strong><br>
+    <p><strong>Питание: </strong>24В 150 мА<br>
+    <strong>Число каналов квадратурных энкодеров: </strong>2<br>
+    <strong>Число дискретных выходов: </strong>8<br>
+    <strong>Управление: </strong>RS-485<br>
+    <strong>Число команд: </strong>8<br>
+    <strong>Формфактор: </strong>A<br>
+    <strong>Назначение: </strong>связь с элементами пультов оператора станков и систем промышленной автоматизации.<br>
     <strong>Особенности:</strong><br>
     <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> режимы работы квадратурных энкодеров x1 (A+B), x2 (A,B), x4 (A,~A,B,~B);<br> 
     <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> дискретные выходы разделены на 2 гальванически-развязанных сегмента;<br> 
     <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> напряжение на дискретном выходе определяется пользователем из диапазона от -60 В до +60 В путём коммутации
 соответствующего напряжения на один из двух контактов (отдельно для каждого сегмента);<br>
     <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> повышенная нагрузочная способность дискретных выходов (стандартно 1 А, по заказу до 2-х А), позволяющая без 
-промежуточных реле управлять катушками магнитных пусктелей и исполнительных узлов пневматических и гидравли-
-ческих систем.</p>
+промежуточных реле управлять катушками магнитных пускателей и исполнительных узлов пневматических и гидравлических систем.</p>
   </div>
 </div> 
 <div class="row">
@@ -127,14 +124,14 @@ description: "Описание современной системы ЧПУ Ди
   </div>
   <div class="col-lg-8 col-md-8 col-sm-8">
     <h3><strong class="di-color">PS-16IN-3DAC</strong></h3>
-    <p>Питание: <strong>24В 150 мА</strong><br>
-    Число дискретных входов: <strong>16</strong><br>
-    Число выходов ЦАП: <strong>3</strong><br>
-    Управление: <strong>RS-485</strong><br>
-    Число команд: <strong>8</strong><br>
-    Формфактор: <strong>A</strong><br>
-    Назначение: <strong>управление приводами неразмерных перемещений станков и систем промышленной автоматизации 
-(дискретная шкала регулирования).</strong><br>
+    <p><strong>Питание: </strong>24В 150 мА<br>
+    <strong>Число дискретных входов: </strong>16<br>
+    <strong>Число выходов ЦАП: </strong>3<br>
+    <strong>Управление: </strong>RS-485<br>
+    <strong>Число команд: </strong>8<br>
+    <strong>Формфактор: </strong>A<br>
+    <strong>Назначение: </strong>управление приводами неразмерных перемещений станков и систем промышленной автоматизации 
+(дискретная шкала регулирования).<br>
     <strong>Особенности:</strong><br>
     <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> дискретные выходы разделены на 2 гальванически-развязанных сегмента.</p> 
   </div>
@@ -147,51 +144,23 @@ description: "Описание современной системы ЧПУ Ди
   </div>
   <div class="col-lg-8 col-md-8 col-sm-8">
     <h3><strong class="di-color">PS-SRV3</strong></h3>
-    <p>Питание: <strong>24В 250 мА</strong><br>
-    Число дискретных входов: <strong>6</strong><br>
-    Число каналов квадратурных энкодеров: <strong>3</strong><br>
-    Число дискретных выходов: <strong>3</strong><br>
-    Число выходов ЦАП: <strong>3</strong><br>
-    Управление: <strong>RS-485</strong><br>
-    Число команд: <strong>15</strong><br>
-    Формфактор: <strong>B</strong><br>
-    Назначение: <strong>управление приводами размерных перемещений станков и систем промышленной автоматизации 
-(сервоуправление).</strong><br>
+    <p><strong>Питание: </strong>24В 250 мА<br>
+    <strong>Число дискретных входов: </strong>6<br>
+    <strong>Число каналов квадратурных энкодеров: </strong>3<br>
+    <strong>Число дискретных выходов: </strong>3<br>
+    <strong>Число выходов ЦАП: </strong>3<br>
+    <strong>Управление: </strong>RS-485<br>
+    <strong>Число команд: </strong>15<br>
+    <strong>Формфактор: </strong>B<br>
+    <strong>Назначение: </strong>управление приводами размерных перемещений станков и систем промышленной автоматизации 
+(сервоуправление).<br>
     <strong>Особенности:</strong><br>
     <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> режимы работы квадратурных энкодеров x1 (A+B), x2 (A,B), x4 (A,~A,B,~B);<br> 
     <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> автоматический поиск индексной метки;<br>
     <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> напряжение на дискретном выходе определяется пользователем из диапазона от -60 В до +60 В путём коммутации
 соответствующего напряжения на один из двух контактов (отдельно для каждого сегмента);<br>
     <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> повышенная нагрузочная способность дискретных выходов (стандартно 1 А, по заказу до 2-х А), позволяющая без 
-промежуточных реле управлять катушками магнитных пусктелей и исполнительных узлов пневматических и гидравлических систем.
-    </p>
-  </div>
-</div>
-<div class="row">
-  <div class="col-lg-4 col-md-4 col-sm-4">
-    <div class="work-img">
-      <img src="/static/img/works/cnc-03-2018/PS-SRV3.png">
-    </div>
-  </div>
-  <div class="col-lg-8 col-md-8 col-sm-8">
-    <h3><strong class="di-color">PS-SRV3</strong></h3>
-    <p>Питание: <strong>24В 250 мА</strong><br>
-    Число дискретных входов: <strong>6</strong><br>
-    Число каналов квадратурных энкодеров: <strong>3</strong><br>
-    Число дискретных выходов: <strong>3</strong><br>
-    Число выходов ЦАП: <strong>3</strong><br>
-    Управление: <strong>RS-485</strong><br>
-    Число команд: <strong>15</strong><br>
-    Формфактор: <strong>B</strong><br>
-    Назначение: <strong>управление приводами размерных перемещений станков и систем промышленной автоматизации 
-(сервоуправление).</strong><br>
-    <strong>Особенности:</strong><br>
-    <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> режимы работы квадратурных энкодеров x1 (A+B), x2 (A,B), x4 (A,~A,B,~B);<br> 
-    <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> автоматический поиск индексной метки;<br>
-    <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> напряжение на дискретном выходе определяется пользователем из диапазона от -60 В до +60 В путём коммутации
-соответствующего напряжения на один из двух контактов (отдельно для каждого сегмента);<br>
-    <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> повышенная нагрузочная способность дискретных выходов (стандартно 1 А, по заказу до 2-х А), позволяющая без 
-промежуточных реле управлять катушками магнитных пусктелей и исполнительных узлов пневматических и гидравлических систем.
+промежуточных реле управлять катушками магнитных пускателей и исполнительных узлов пневматических и гидравлических систем.
     </p>
   </div>
 </div>
@@ -206,13 +175,13 @@ description: "Описание современной системы ЧПУ Ди
   </div>
   <div class="col-lg-8 col-md-8 col-sm-8">
     <h3><strong class="di-color">PS-80IN-32OUT</strong></h3>
-    <p>Питание: <strong>5В 500 мА; 24В 100 мА</strong><br />
-    Число дискретных входов: <strong>80</strong><br />
-    Число дискретных выходов: <strong>32</strong><br />
-    Управление: <strong>RS-485</strong><br />
-    Число команд: <strong>8</strong><br />
-    Формфактор: <strong>C</strong><br />
-    Назначение: <strong>связь с элементами электроавтоматики станков и систем промышленной автоматизации.</strong>
+    <p><strong>Питание: </strong>5В 500 мА; 24В 100 мА<br />
+    <strong>Число дискретных входов: </strong>80<br />
+    <strong>Число дискретных выходов: </strong>32<br />
+    <strong>Управление: </strong>RS-485<br />
+    <strong>Число команд: </strong>8<br />
+    <strong>Формфактор: </strong>C<br />
+    <strong>Назначение: </strong>связь с элементами электроавтоматики станков и систем промышленной автоматизации.
     </p>
   </div>
 </div>
