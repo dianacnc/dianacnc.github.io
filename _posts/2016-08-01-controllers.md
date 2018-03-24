@@ -201,7 +201,7 @@ description: "Описание современной системы ЧПУ Ди
 <div class="row">
   <div class="col-lg-4 col-md-4 col-sm-4">
     <div class="work-img">
-      <img src="/static/img/works/cnc-03-2018/PS-80IN-32OUT.png" />
+      <img src="/static/img/works/cnc-03-2018/PS-80IN-32OUT.jpg" />
     </div>
   </div>
   <div class="col-lg-8 col-md-8 col-sm-8">
