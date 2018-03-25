@@ -235,6 +235,28 @@ description: "Описание современной системы ЧПУ Ди
     </p>
   </div>
 </div>
+<div class="row">
+  <div class="col-lg-4 col-md-4 col-sm-4">
+    <div class="work-img">
+      <img src="/static/img/works/cnc-03-2018/PS-8IN-3QE-8OUT-3STEP.png" />
+    </div>
+  </div>
+  <div class="col-lg-8 col-md-8 col-sm-8">
+    <h3><strong class="di-color">PS-8IN-3QE-8OUT-3STEP</strong></h3>
+    <p><strong>Питание: </strong>5В 500 мА; 24В 100 мА<br />
+    <strong>Число дискретных входов: </strong>8<br />
+    <strong>Число каналов квадратурных энкодеров: </strong>3<br />
+    <strong>Число дискретных выходов: </strong>17 (8+9)<br />
+    <strong>Управление: </strong>RS-485<br />
+    <strong>Число команд: </strong>15<br />
+    <strong>Формфактор: </strong>C<br />
+    <strong>Назначение: </strong>комплексное управление станком или системой промышленной автоматизации с шаговыми двигателями (3 оси).<br />
+    <strong>Особенности: </strong><br>
+    <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> режимы работы квадратурных энкодеров x1 (A+B), x2 (A,B), x4 (A,~A,B,~B);<br>
+    <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> автоматический поиск индексной метки.<br>
+    </p>
+  </div>
+</div>
 <p>
 Повышенная надёжность системы ЧПУ обеспечивается расширенным диапазоном питающего напряжения промышленных контроллеров формфакторов A и B (18-36 Вольт), полным отсутствием трущихся механических узлов, сокращением до минимума числа разъёмных соединений за счёт широкого использования ПЛИС.
 </p>
