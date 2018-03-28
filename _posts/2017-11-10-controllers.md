@@ -198,8 +198,7 @@ description: "Описание современной системы ЧПУ Ди
   </div>
   <div class="col-lg-8 col-md-8 col-sm-8">
     <h3><strong class="di-color">PS-4QE-4DAC</strong></h3>
-    <p><strong>Питание: </strong>5В 500 мА (цифровая часть);  5 В 100 мА (аналоговая часть); +15 В 50 мА (аналоговая напряжение на дискретном выходе определяется пользователем из диапазона от -60 В до +60 В путём коммутации
-соответствующего напряжения на один из двух контактов (отдельно для каждого сегмента);часть); -15 В 50 мА (аналоговая часть)<br />
+    <p><strong>Питание: </strong>5В 500 мА (цифровая часть);  5 В 100 мА (аналоговая часть); +15 В 50 мА (аналоговая часть); -15 В 50 мА (аналоговая часть)<br />
     <strong>Число каналов квадратурных энкодеров: </strong>4<br />
     <strong>Число выходов ЦАП: </strong>4<br />
     <strong>Управление: </strong>RS-485<br />
@@ -221,8 +220,7 @@ description: "Описание современной системы ЧПУ Ди
   </div>
   <div class="col-lg-8 col-md-8 col-sm-8">
     <h3><strong class="di-color">PS-4RS-4DAC</strong></h3>
-    <p><strong>Питание: </strong>5В 500 мА (цифровая часть);  5 В 100 мА (аналоговая часть); +15 В 50 мА (аналоговая напряжение на дискретном выходе определяется пользователем из диапазона от -60 В до +60 В путём коммутации
-соответствующего напряжения на один из двух контактов (отдельно для каждого сегмента);часть); -15 В 50 мА (аналоговая часть)<br />
+    <p><strong>Питание: </strong>5В 500 мА (цифровая часть);  5 В 100 мА (аналоговая часть); +15 В 50 мА (аналоговая часть); -15 В 50 мА (аналоговая часть)<br />
     <strong>Число каналов резольвера/индуктосина: </strong>4<br />
     <strong>Число выходов ЦАП: </strong>4<br />
     <strong>Управление: </strong>RS-485<br />
@@ -254,6 +252,98 @@ description: "Описание современной системы ЧПУ Ди
     <strong>Особенности: </strong><br>
     <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> режимы работы квадратурных энкодеров x1 (A+B), x2 (A,B), x4 (A,~A,B,~B);<br>
     <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> автоматический поиск индексной метки.<br>
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class="col-lg-4 col-md-4 col-sm-4">
+    <div class="work-img">
+      <img src="/static/img/works/cnc-03-2018/PS-1ABS-1DAC.png" />
+    </div>
+  </div>
+  <div class="col-lg-8 col-md-8 col-sm-8">
+    <h3><strong class="di-color">PS-1ABS-1DAC</strong></h3>
+    <p><strong>Питание: </strong>5В 500 мА (цифровая часть);  5 В 100 мА (аналоговая часть); +15 В 50 мА (аналоговая часть); -15 В 50 мА (аналоговая часть)<br />
+    <strong>Число каналов абсолютного энкодера: </strong>1<br />
+    <strong>Число выходов ЦАП: </strong>1<br />
+    <strong>Управление: </strong>RS-485<br />
+    <strong>Число команд: </strong>15<br />
+    <strong>Формфактор: </strong>D<br />
+    <strong>Назначение: </strong>управление приводами размерных перемещений станков и систем промышленной автоматизации 
+(сервоуправление).<br />
+    <strong>Особенности: </strong><br>
+    <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> программное управление направлением счёта;<br>
+    <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> программная установка нулевого положения.<br>
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class="col-lg-4 col-md-4 col-sm-4">
+    <div class="work-img">
+      <img src="/static/img/works/cnc-03-2018/PS-10PWM.png" />
+    </div>
+  </div>
+  <div class="col-lg-8 col-md-8 col-sm-8">
+    <h3><strong class="di-color">PS-10PWM</strong></h3>
+    <p><strong>Питание: </strong>5В 100 мА<br />
+    <strong>Число каналов ШИМ: </strong>10<br />
+    <strong>Управление: </strong>RS-485<br />
+    <strong>Число команд: </strong>3<br />
+    <strong>Формфактор: </strong>E<br />
+    <strong>Назначение: </strong>управление серводвигателями постоянного тока (например, серии BLM).<br />
+    <strong>Особенности: </strong><br>
+    <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> раздельное включение/выключение каналов.<br>
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class="col-lg-4 col-md-4 col-sm-4">
+    <div class="work-img">
+      <img src="/static/img/works/cnc-03-2018/PS-RASPBERRY-1UART.png" />
+    </div>
+  </div>
+  <div class="col-lg-8 col-md-8 col-sm-8">
+    <h3><strong class="di-color">PS-RASPBERRY-1UART</strong></h3>
+    <p><strong>Питание: </strong>5В 100 мА; 3.3В 50мА<br />
+    <strong>Число каналов UART: </strong>1<br />
+    <strong>Физический интерфейс: </strong>RS-485<br />
+    <strong>Максимальная скорость: </strong>115.2 КБод<br />
+    <strong>Формфактор: </strong>F<br />
+    <strong>Назначение: </strong>связь с промышленными контролерами в простых системах числового программного управления и системах промышленной автоматизации.<br />
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class="col-lg-4 col-md-4 col-sm-4">
+    <div class="work-img">
+      <img src="/static/img/works/cnc-03-2018/PS-RASPBERRY-1UART.png" />
+    </div>
+  </div>
+  <div class="col-lg-8 col-md-8 col-sm-8">
+    <h3><strong class="di-color">PS-RASPBERRY-2UART</strong></h3>
+    <p><strong>Питание: </strong>5В 100 мА; 3.3В 50мА<br />
+    <strong>Число каналов UART: </strong>2<br />
+    <strong>Физический интерфейс: </strong>RS-485<br />
+    <strong>Максимальная скорость: </strong>1.5 МБод<br />
+    <strong>Формфактор: </strong>F<br />
+    <strong>Назначение: </strong>связь с промышленными контролерами в сложных системах числового программного управления и системах промышленной автоматизации.<br />
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class="col-lg-4 col-md-4 col-sm-4">
+    <div class="work-img">
+      <img src="/static/img/works/cnc-03-2018/PS-RASPBERRY-1UART.png" />
+    </div>
+  </div>
+  <div class="col-lg-8 col-md-8 col-sm-8">
+    <h3><strong class="di-color">PS-RASPBERRY-1IN</strong></h3>
+    <p><strong>Питание: </strong>5В 100 мА<br />
+    <strong>Число дискретных входов: </strong>8<br />
+    <strong>Формфактор: </strong>F<br />
+    <strong>Назначение: </strong>системы комплексного мониторинга парка промышленного оборудования.<br />
+    <strong>Особенности: </strong><br>
+    <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> дискретные входы разделены на 2 гальванически-развязанных сегмента.<br>
     </p>
   </div>
 </div>
