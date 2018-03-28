@@ -339,7 +339,7 @@ description: "Описание современной системы ЧПУ Ди
   <div class="col-lg-8 col-md-8 col-sm-8">
     <h3><strong class="di-color">PS-RASPBERRY-1IN</strong></h3>
     <p><strong>Питание: </strong>5В 100 мА<br />
-    <strong>Число дискретных входов: </strong>8<br />
+    <strong>Число дискретных входов:  </strong>8<br />
     <strong>Формфактор: </strong>F<br />
     <strong>Назначение: </strong>системы комплексного мониторинга парка промышленного оборудования.<br />
     <strong>Особенности: </strong><br>
