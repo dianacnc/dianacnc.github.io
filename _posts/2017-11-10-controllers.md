@@ -312,7 +312,7 @@ description: "Описание современной системы ЧПУ Ди
     <strong>Физический интерфейс: </strong>RS-485<br />
     <strong>Максимальная скорость: </strong>115.2 КБод<br />
     <strong>Формфактор: </strong>F<br />
-    <strong>Назначение: </strong>связь с промышленными контролерами в простых системах числового программного управления и системах промышленной автоматизации.<br />
+    <strong>Назначение: </strong>связь с промышленными контроллерами в простых системах числового программного управления и системах промышленной автоматизации.<br />
     </p>
   </div>
 </div>
@@ -329,7 +329,7 @@ description: "Описание современной системы ЧПУ Ди
     <strong>Физический интерфейс: </strong>RS-485<br />
     <strong>Максимальная скорость: </strong>1.5 МБод<br />
     <strong>Формфактор: </strong>F<br />
-    <strong>Назначение: </strong>связь с промышленными контролерами в сложных системах числового программного управления и системах промышленной автоматизации.<br />
+    <strong>Назначение: </strong>связь с промышленными контролkерами в сложных системах числового программного управления и системах промышленной автоматизации.<br />
     </p>
   </div>
 </div>
@@ -340,13 +340,14 @@ description: "Описание современной системы ЧПУ Ди
     </div>
   </div>
   <div class="col-lg-8 col-md-8 col-sm-8">
-    <h3><strong class="di-color">PS-RASPBERRY-1IN</strong></h3>
-    <p><strong>Питание: </strong>5В 100 мА<br />
+    <h3><strong class="di-color">PS-RASPBERRY-8IN</strong></h3>
+    <p><strong>Питание: </strong>5 В 100 мА (от Raspberry Pi); 3.3 В 50 мА (от Raspberry Pi)<br />
     <strong>Число дискретных входов:  </strong>8<br />
     <strong>Формфактор: </strong>F<br />
     <strong>Назначение: </strong>системы комплексного мониторинга парка промышленного оборудования.<br />
     <strong>Особенности: </strong><br>
-    <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> дискретные входы разделены на 2 гальванически-развязанных сегмента.<br>
+    <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> дискретные входы разделены на 2 гальванически-развязанных сегмента;<br>
+    <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> разъём для подключения системных часов.<br>
     </p>
   </div>
 </div>
