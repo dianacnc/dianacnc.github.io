@@ -7,6 +7,17 @@ title: "Система ЧПУ \"ДиаНа-CNC-СМ\""
 tmb: Photo.png
 description: "Описание современной системы ЧПУ ДиаНа-CNC-СМ"
 ---
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-117381769-1"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-117381769-1');
+  </script>
+</head> 
 <p><strong>"ДиаНа-CNC-СМ"</strong> является динамично развивающимся программно-аппаратным комплексом мирового уровня. Открытая модульная архитектура и постоянно расширяющийся набор программных опций позволяют реализовывать оптимальные по стоимости и максимальные по функциональным возможностям системы промышленной автоматики или числового программного управления.Система числового программного управления "ДиаНа-CNC" является мультипроцессорной системой. Основой архитектуры является промышленный компьютер платформы Raspberry Pi 3.</p>
 <!--content-->
    <strong>Назначение: </strong> управление требуемой конфигурацией промышленных контроллеров<br>
@@ -16,8 +27,8 @@ description: "Описание современной системы ЧПУ Ди
    <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> сокращение до минимума числа разъёмных соединений за счёт широкого использования ПЛИС;<br>
    <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> интерфейс оператор-СЧПУ выполнен с использованием сенсорного монитора (диагональ 17 дюймов);<br>
    <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> оригинальная плата Raspberry Pi не имеет часовой микросхемы, поэтому на ряде контроллеров имеется разъём для подключения платы системного времени собственного производства;<br>
-   <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> линейка промышленных контроллеров включает двадцать позиций, реализующих различные комбинации дискретных и аналоговых входов и выходов, выходов и входов индуктосинов и резольверов, входов инкрементальных и абсолютных энкодеров, выходов управления приводами шаговых двигателей;<br>
-   <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> используются 7 формфакторов конструктивного исполнения промышленных контроллеров.<br>
+   <span class="glyphicon glyphicon-chevron-right di-color" aria-hidden="true"></span> линейка промышленных контроллеров включает двадцать позиций, реализующих различные комбинации дискретных и аналоговых входов и выходов, выходов и входов индуктосинов и резольверов, входов инкрементальных и абсолютных энкодеров, выходов управления приводами шаговых двигателей.<br>
+
 <div class="col-lg-4 col-md-4 col-sm-4">
     <div class="work-img">
      <img src="/static/img/works/cnc-03-2018/PC.png">  
@@ -42,9 +53,30 @@ description: "Описание современной системы ЧПУ Ди
     <h3><strong class="di-color">      </strong></h3>
 </div>
 <p>Конструктивные особенности системы ЧПУ позволяют легко и органично интегрировать её в технологическое оборудование любых форм и размеров.</p>
+<p>Используются 7 формфакторов конструктивного исполнения промышленных контроллеров.</p>
+<a href="/static/pdf/Формфактор A.pdf" download>
+  <img border="0" src="/static/pdf/Формфактор A.pdf" alt="Формфактор A" width="208" height="284">
+</a>
+<a href="/static/pdf/Формфактор B.pdf" download>
+  <img border="0" src="/static/pdf/Формфактор B.pdf" alt="Формфактор B" width="104" height="142">
+</a>
+<a href="/static/pdf/Формфактор C.pdf" download>
+  <img border="0" src="/static/pdf/Формфактор C.pdf" alt="Формфактор C" width="104" height="142">
+</a>
+<a href="/static/pdf/Формфактор D.pdf" download>
+  <img border="0" src="/static/pdf/Формфактор D.pdf" alt="Формфактор D" width="104" height="142">
+</a>
+<a href="/static/pdf/Формфактор E.pdf" download>
+  <img border="0" src="/static/pdf/Формфактор E.pdf" alt="Формфактор E" width="104" height="142">
+</a>
+<a href="/static/pdf/Формфактор F.pdf" download>
+  <img border="0" src="/static/pdf/Формфактор F.pdf" alt="Формфактор F" width="104" height="142">
+</a>
+<a href="/static/pdf/Формфактор G.pdf" download>
+  <img border="0" src="/static/pdf/Формфактор G.pdf" alt="Формфактор G" width="104" height="142">
+</a>
 <p><strong>Контроллеры формфакторов A и B</strong> реализованы в виде пластмассовых боксов с установкой на DIN-рейку с одним номиналом питающего напряжения расширенного диапазона 1:2 18-36 В (по специальному заказу возможно исполнение с диапазоном 1:4 9-36 В).
 </p>
-
 <div class="row">
   <div class="col-lg-4 col-md-4 col-sm-4">
     <div class="work-img">
