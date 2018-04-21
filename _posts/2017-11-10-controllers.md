@@ -53,14 +53,16 @@ description: "Описание современной системы ЧПУ Ди
     <h3><strong class="di-color">      </strong></h3>
 </div>
 <p>Конструктивные особенности системы ЧПУ позволяют легко и органично интегрировать её в технологическое оборудование любых форм и размеров.</p>
-<p>Используются 7 формфакторов конструктивного исполнения промышленных контроллеров.</p>
-<a href="/static/pdf/Формфактор A.pdf" download>
+<p>Используются 7 формфакторов конструктивного исполнения промышленных контроллеров.
+ <a href="/static/pdf/Формфактор A.pdf" download>
   <img border="0" src="/static/pdf/Формфактор A.pdf" alt="Формфактор A" width="208" height="284">
-</a>
-<a href="/static/pdf/Формфактор B.pdf" download>
+ </a>
+ <a href="/static/pdf/Формфактор B.pdf" download>
   <img border="0" src="/static/pdf/Формфактор B.pdf" alt="Формфактор B" width="104" height="142">
-</a>
-<a href="/static/pdf/Формфактор C.pdf" download>
+ </a>
+</p>
+<p>
+ <a href="/static/pdf/Формфактор C.pdf" download>
   <img border="0" src="/static/pdf/Формфактор C.pdf" alt="Формфактор C" width="104" height="142">
 </a>
 <a href="/static/pdf/Формфактор D.pdf" download>
@@ -75,6 +77,7 @@ description: "Описание современной системы ЧПУ Ди
 <a href="/static/pdf/Формфактор G.pdf" download>
   <img border="0" src="/static/pdf/Формфактор G.pdf" alt="Формфактор G" width="104" height="142">
 </a>
+</p>
 <p><strong>Контроллеры формфакторов A и B</strong> реализованы в виде пластмассовых боксов с установкой на DIN-рейку с одним номиналом питающего напряжения расширенного диапазона 1:2 18-36 В (по специальному заказу возможно исполнение с диапазоном 1:4 9-36 В).
 </p>
 <div class="row">
