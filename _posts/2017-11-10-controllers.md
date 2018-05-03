@@ -8,15 +8,15 @@ tmb: Photo.png
 description: "Описание современной системы ЧПУ ДиаНа-CNC-СМ"
 ---
 <head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-117381769-1"></script>
-  <script>
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-117381769-1"></script>
+<script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', 'UA-117381769-1');
-  </script>
+</script>
 </head> 
 <p><strong>"ДиаНа-CNC-СМ"</strong> является динамично развивающимся программно-аппаратным комплексом мирового уровня. Открытая модульная архитектура и постоянно расширяющийся набор программных опций позволяют реализовывать оптимальные по стоимости и максимальные по функциональным возможностям системы промышленной автоматики или числового программного управления.Система числового программного управления "ДиаНа-CNC" является мультипроцессорной системой. Основой архитектуры является промышленный компьютер платформы Raspberry Pi 3.</p>
 <!--content-->
