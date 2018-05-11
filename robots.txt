@@ -2,7 +2,7 @@ User-agent: Yandex
 Allow: /
 sitemap: http://www.dianacnc.com/sitemap.xml
 
-User-agent: Google
+User-agent: GoogleBot
 Allow: /
 sitemap: http://www.dianacnc.com/sitemap.xml
 
