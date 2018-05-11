@@ -1,0 +1,8 @@
+User-agent: Yandex
+Allow: /
+sitemap: http://www.dianacnc.com/sitemap.xml
+
+User-agent: Google
+Allow: /
+sitemap: http://www.dianacnc.com/sitemap.xml
+
